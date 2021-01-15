@@ -1,0 +1,84 @@
+* {
+  box-sizing: border-box;
+}
+body{
+    font-family: 'Bellota Text', cursive;
+    max-width: 100%;
+    background-color: whitesmoke;
+    border-style: none !important;
+}
+.nav-styling {
+  margin-left: 400px;
+}
+.nav-photo {
+  margin-left: 0%;
+}
+.top-part {
+  margin-top: 7%;
+  margin-left: 0%;
+  max-width: 100%;
+}
+.top-card-title-text {
+  font-size: 40px;
+  color: rgba(0, 0, 0, 0.699);
+}
+.top-card-body-text {
+  font-size: 20px;
+  text-align: justify;
+}
+.btn {
+  text-decoration: none;
+  background-image: linear-gradient(45deg, orange, darkorange);
+  padding: 20px 50px;
+  border-radius: 10px;
+  color: white;
+  font-weight: 700;
+}
+.bottom-part-left img {
+  width: 100px;
+  height: 100px;
+  display: block;
+  margin-top: 15px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.bottom-part-right{
+    float: right;
+    margin-right: 0px;
+    margin-top: 50px;
+}
+.shoe-cleaner-part img{
+    max-width: 100%;
+    height: 300px;
+}
+.accessories-part img{
+    max-width: 100%;
+    height: 400px;
+}
+.contacts-info{
+    font-size: 30px;
+    text-align: center;
+    padding-top: 150px;
+}
+.contacts-info img{
+    padding-left: 15px;
+    width: 20%;
+}
+footer{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.button-position-fixing button{
+   margin-left: 200px;
+}
+.button-position-fixing h5{
+    margin-left: 10px;
+}
+.text-deco{
+    color:saddlebrown;
+    
+}
+main h2{
+    color: rgba(0, 0, 0, 0.836);
+}
